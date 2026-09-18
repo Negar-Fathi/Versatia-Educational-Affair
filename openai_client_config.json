@@ -1,0 +1,19 @@
+{
+    "ACCESS_TOKEN": "xxx-xxxxxxxxxxxxxxxx",
+    
+    "GATEWAY": "oai.helaletes-subruficollis-dev.tyact.com",
+    "PROTOCOL": "http",
+    
+    "DEFAULT_MODEL": "gpt-4.1",
+    "BASIC_MODEL": "gpt-4.1-mini",
+    
+    "DEFAULT_ASST": "asst_xxxxxxxxxxxxxx",
+    "VIDA_ASST": "asst_xxxxxxxxxxxxxxx",
+    "SHANA_ASST": "asst_xxxxxxxxxxxxxxx",
+    "TIMA_ASST": "asst_xxxxxxxxxxxxxxx",
+    "MENTOR_ASST": "asst_xxxxxxxxxxxxxx",
+    
+    "CLIENT": "Versatia",
+    
+    "FALLBACK_CLIENT_ID": 1
+}

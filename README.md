@@ -1,4 +1,3 @@
-# Versatia-Educational-Affair
 
 ## How to launch
 - <code>python the_app.py</code>
@@ -12,4 +11,3 @@
 ## SSL Config
 - ssl_keyfile.pem could be simply a symlink to "/etc/letsencrypt/live/yoursite.yourdomain.com/fullchain.pem"
 - ssl_certfile.pem could be simply a symlink to "/etc/letsencrypt/live/yoursite.yourdomain.com/privkey.pem"
-
